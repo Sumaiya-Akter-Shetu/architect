@@ -1,0 +1,7 @@
+/* nav section */
+nav{
+    display: flex;
+}
+nav ul{
+    text-decoration: none;
+}
